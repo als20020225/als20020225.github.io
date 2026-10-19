@@ -17,9 +17,9 @@ SAP ERP 시스템과 기업 비즈니스 프로세스에 관심을 가지고 있
     * SAP ERP, ABAP, 비즈니스 프로세스(모듈), BTP 및 데이터베이스 학습
 * Military Service
   * 대한민국 공군 848기
-  * 병장 만기 전역
-  * 운전병 복무
-  * 2025년 2월 전역
+    * 병장 만기 전역
+    * 운전병 복무
+    * 2025년 2월 전역
     
 # Certifications
 * SAP Certified Associate - Back-End-Developer - ABAP Cloud
